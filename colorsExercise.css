@@ -1,0 +1,38 @@
+h1 {color: #800200;background-color: rgba(255, 40, 0, 0.7);}
+
+
+h2 {color: orange;background-color:#ffbb005c ;}
+
+
+h3 {color: rgb(148, 148, 11);background-color: rgba(247, 228, 24, 0.241);}
+
+
+h4 {color: #00ff4865;background-color: rgba(70, 224, 101, 0.259);}
+
+
+h5 {color: #00ff;background-color: rgba(99, 141, 255, 0.351);}
+
+
+h6 {color: rgb(90, 13, 255);background-color: rgba(76, 0, 255, 0.34);}
+
+
+p {color : rgba(200, 0, 255, 0.7);background-color: rgba(239, 143, 188, 0.7);}
+
+
+#hotPink {
+    color: hotpink;
+  }
+
+
+  
+  #Peach {
+    background-color: peachpuff;
+  }
+
+   /* testing something, ignore this */
+
+  /* #Peach {background-color: red;} */
+
+  /* you may stop ignoring the code now  */
+
+  .test {border: 5px solid green;}
